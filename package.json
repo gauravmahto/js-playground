@@ -1,0 +1,19 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "JavaScript playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravmahto/js-playground.git"
+  },
+  "author": "Gaurav Mahto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravmahto/js-playground/issues"
+  },
+  "homepage": "https://github.com/gauravmahto/js-playground#readme"
+}
